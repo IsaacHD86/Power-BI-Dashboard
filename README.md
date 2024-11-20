@@ -7,7 +7,7 @@ Descripción General.
 Fuente de Datos: Universidad Johns Hopkins (Datos globales de casos de COVID-19).                                                                                              
 Objetivo: Crear un reporte interactivo en Power BI utilizando DAX para contestar preguntas clave relacionadas con los casos de COVID-19 a nivel global.                               
 
-### mportación y Transformación de Datos
+### Importación y Transformación de Datos
 Carga de Datos:                                                                                                                    
 Importa el archivo con datos de casos globales a Power BI.                                                                                                   
 Realiza una limpieza básica (formato de columnas, eliminación de valores nulos, transformación de tipos de datos).                                                           
